@@ -90,7 +90,7 @@ The updated data is:
 
 ### `flatten` function
 
-This function is used to flatten a nested array to one array. For example, we can reverse the effect of the split function by applying flatten on the same location (`[3:, 3:]`):
+This function is used to flatten a nested array. For example, we can reverse the effect of the split function by applying flatten on the same location (`[3:, 3:]`):
 
 Data before flattening:
 
